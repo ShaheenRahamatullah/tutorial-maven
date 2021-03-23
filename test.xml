@@ -2,7 +2,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <note>
        <to>Joe</to>
-       <from>Jani</from>
+       <from>kate</from>
        <heading>Reminder</heading>
+  <email>rahone.gmail.com</email>
        <body>Don't ever forget me this weekend!</body>
    </note>
