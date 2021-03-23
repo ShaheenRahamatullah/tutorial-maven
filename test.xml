@@ -6,5 +6,6 @@
        <from>shah</from>
        <heading>Reminder</heading>
        <email>rahone.gmail.com</email>
+       <tail>hi this tail<tail>
        <body>ever forget me this weekend!</body>
    </note>
